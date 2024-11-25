@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "version": "1.0",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*.bilibili.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.bilibili.com/*"],
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+        "resources": ["images/bilibili_logo.png"],
+        "matches": ["*://*.bilibili.com/*"]
+    }
+  ]
+} 

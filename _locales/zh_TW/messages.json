@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "嗶哩嗶哩界面優化",
+    "description": "擴展名稱"
+  },
+  "extensionDescription": {
+    "message": "一個用於優化嗶哩嗶哩界面並屏蔽廣告的Chrome擴展",
+    "description": "擴展描述"
+  }
+} 

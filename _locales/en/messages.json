@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "BiliBili Interface Optimizer",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "A Chrome extension to optimize Bilibili user interface and block ads",
+    "description": "The description of the extension"
+  }
+} 

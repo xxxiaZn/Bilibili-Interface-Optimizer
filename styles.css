@@ -1,0 +1,30 @@
+/* 布局相关样式 */
+.bili-header__channel {
+    height: 20px !important;
+    min-height: 20px !important;
+}
+
+.bili-header__bar {
+    display: flex !important;
+    justify-content: flex-end !important;
+    width: 100% !important;
+}
+
+/* 导航栏样式 */
+.right-entry {
+    margin-left: auto !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+/* Logo样式 */
+.inner-logo {
+    display: flex !important;
+    align-items: center !important;
+    height: 36px !important;
+}
+
+.inner-logo .logo-img {
+    height: 36px !important;
+    width: auto !important;
+} 

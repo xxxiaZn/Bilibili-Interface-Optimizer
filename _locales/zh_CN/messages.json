@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "哔哩哔哩界面优化",
+    "description": "扩展名称"
+  },
+  "extensionDescription": {
+    "message": "一个用于优化哔哩哔哩界面并屏蔽广告的Chrome扩展",
+    "description": "扩展描述"
+  }
+} 
